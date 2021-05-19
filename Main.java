@@ -8,8 +8,8 @@ public class Main {
         Chatbot bot = new Chatbot();
         //>>>>>>>>>>UPCAST<<<<<<<<<<<<<<<<<<<
         // criando as respostas com as palavras chaves sem caracterteres especiais
-        Resposta rp1 = new RespostaSimples ("nome","Meus amigos me chamam de AnhembiBot.");
-        Resposta rp2 = new RespostaSimples ("chama","Meus amigos me chamam de AnhembiBot.");
+        Resposta rp1 = new RespostaSimples ("nome","Meus amigos me chamam de Ubot.");
+        Resposta rp2 = new RespostaSimples ("chama","Meus amigos me chamam de Ubot.");
         Resposta rp3 = new RespostaSimples ("ajudar","No que você precisa de ajuda?");
         Resposta rp4 = new RespostaSimples ("financeiro","Para resolver problemas do financeiro, acesse o portal sou.anhembi no menu superior 'financeiro'.");
         Resposta rp5 = new RespostaSimples ("solicitao","Para solicitar documentos, acesse o menu superior 'solicitações' no portal sou.anhembi.");
